@@ -12,6 +12,7 @@ Author: E. Phillips Oppenheim
 
 Posting Date: November 23, 2008 [EBook #1699]
 Release Date: April, 1999
+[Last updated: October 3, 2015]
 
 Language: English
 
@@ -873,7 +874,7 @@ eyes upon, even if the rest of the roof holds, which for my part I'm
 beginning to doubt. They'd have to move him from here with the daylight,
 anyhow. He can't lie in the bar parlour all day, can he?"
 
-"It don't seem right, somehow," the man com plained doggedly. "The
+"It don't seem right, somehow," the man complained doggedly. "The
 doctor didn't say anything about having him moved."
 
 "You get the car," Gerald ordered the young man. "I'll take the whole
@@ -1189,7 +1190,7 @@ The man swung open the gate with a respectful salute. They made their
 way up a winding drive of considerable length, and at last they came
 to a broad, open space almost like a platform. On their left were the
 marshes, and beyond, the sea. Along their right stretched the long front
-of an Elizabethan mansion. They drew up in front of the hail door. Their
+of an Elizabethan mansion. They drew up in front of the hall door. Their
 coming had been observed, and servants were already waiting. Gerald
 sprang to the ground.
 
@@ -1406,7 +1407,7 @@ memory or some living thing, seldom, if ever, to be spoken of, and yet
 always present. The boy began to tremble.
 
 "You're a little overwrought, Gerald," Mr. Fentolin declared. "Sit
-quietly in my easy-chair for a few moments. Walt until I have examined
+quietly in my easy-chair for a few moments. Wait until I have examined
 Mr. Dunster's belongings. Ah! Meekins has been prompt, indeed."
 
 There was a stealthy tap at the door. Meekins entered with the small
@@ -1447,7 +1448,7 @@ signatures appended. Mr. Fentolin read it, at first with ordinary
 interest. Then a change came. The look of a man drawn out of himself,
 drawn out of all knowledge of his surroundings or his present state,
 stole into his face. Literally he became transfixed. The delicate
-fingers of his, left hand gripped the sides of his little carriage.
+fingers of his left hand gripped the sides of his little carriage.
 His eyes shone as though those few written lines upon which they were
 riveted were indeed some message from an unknown, an unimagined world.
 Yet no word ever passed his lips. There came a time when the tension
@@ -1619,7 +1620,7 @@ ease.
 The doctor, with the telegrams in his hand, made his way down a splendid
 staircase, past the long picture gallery where masterpieces of Van Dyck
 and Rubens frowned and leered down upon him; descended the final stretch
-of broad oak stairs, crossed the hail, and entered his master's rooms.
+of broad oak stairs, crossed the hall, and entered his master's rooms.
 Mr. Fentolin was sitting before the open window, an easel in front of
 him, a palette in his left hand, painting with deft, swift touches.
 
@@ -1825,7 +1826,7 @@ companion's anxiety.
 "There's nothing seriously wrong, is there, Reggie?" he asked.
 
 "Dick," said Kinsley, with a sigh, "I am afraid there is. It's very
-seldom I talk as plainly as this to any, one but you are just the person
+seldom I talk as plainly as this to any one but you are just the person
 one can unburden oneself to a little; and to tell you the truth, it's
 rather a relief. As you say, these eighteen arrests in one week do mean
 something. Half of the Englishmen who have been arrested are, to my
@@ -2468,7 +2469,7 @@ She seated herself a few feet away from him. Mr. Fentolin watched her
 for several moments. He himself had his back to the light. The woman, on
 the other hand, was facing it. The windows were high, and the curtains
 were drawn back to their fullest extent. A cold stream of northern
-light fell upon her face. Mr. Fentolin gazed at her and nodded her head
+light fell upon her face. Mr. Fentolin gazed at her and nodded his head
 slightly.
 
 "My dear Lucy," he declared, "you are wonderful--a perfect cameo, a gem.
@@ -2601,7 +2602,7 @@ woman has upset me."
 
 "Miss Price?"
 
-"Miss Price, d-n it! Lucy--yes!"
+"Miss Price, d--n it! Lucy--yes!"
 
 "It seems unlike her," the doctor remarked. "I have never heard her
 utter a useless syllable in my life."
@@ -3188,7 +3189,7 @@ river which flows up to the village of St. David's yonder. You see?"
 His finger traced its course until it came to a certain point near the
 beach, where a tall black pillar stood, surmounted by a globe.
 
-"I have had a light fixed there for the benefit or the fishermen," he
+"I have had a light fixed there for the benefit of the fishermen," he
 said, "a light which I work from my own dynamo. Between where we are
 sitting now and there--only a little way out to sea--is a jagged
 cluster of cruel rocks. You can see them if you care to swim out in
@@ -3407,7 +3408,7 @@ traversed about a hundred yards of subterranean way. Here and there a
 fungus hung down from the wall, otherwise it was beautifully kept and
 dry. By and by, with a little turn, they came to an incline and another
 iron gate, held open for them by a footman. Mr. Fentolin sped up the
-last few feet into the great hail, which seemed more imposing than ever
+last few feet into the great hall, which seemed more imposing than ever
 by reason of this unexpected entrance. Hamel, blinking a little, stepped
 to his side.
 
@@ -4025,7 +4026,7 @@ interesting visitor even than I had thought."
 
 He raised his left hand, and Meekins, who seemed to have been waiting
 for some signal of the sort, suddenly, with a movement of his knee and
-right arm, flung Dunster hack upon the bed. The man opened his mouth
+right arm, flung Dunster back upon the bed. The man opened his mouth
 to shout, but already, with lightning-like dexterity, his assailant
 had inserted a gag between his teeth. Treating his struggles as the
 struggles of a baby, Meekins next proceeded to secure his wrists with
@@ -4179,7 +4180,7 @@ perfectly good-natured.
 opposite to you. That is the drawing-room. You will find Esther there.
 Before you go, will you pass me the Quarterly Review? Thank you."
 
-Hamel crossed the hail, opened the door of the room to which he had been
+Hamel crossed the hall, opened the door of the room to which he had been
 directed, and made his way towards the piano. Esther was there, playing
 softly to herself with eyes half closed. He came and stood by her side,
 and she stopped abruptly. Her eyes questioned him. Then her fingers
@@ -4402,7 +4403,7 @@ us always isolated."
 I am not at all sure that, living this solitary life as you do, you have
 not become a little over-nervous; that you have not exaggerated the fear
 of some things. To me your uncle seems merely quixotic and egregiously
-selfish. However that may be, I am going to remain." She clutched once,
+selfish. However that may be, I am going to remain." She clutched once
 more at his arm, her finger was upraised. They listened together. From
 somewhere behind them came the clear, low wailing of a violin.
 
@@ -5149,8 +5150,8 @@ hand and smiled good-humouredly at Hamel.
 
 "I know your father's work quite well," she declared, "and I don't
 wonder that you have made a pilgrimage here. They tell me that he
-painted nineteen pictures--pictures of importance, that is to say
---within this little area of ten miles. Do you paint, Mr. Hamel?"
+painted nineteen pictures--pictures of importance, that is to say--within
+this little area of ten miles. Do you paint, Mr. Hamel?"
 
 "Not at all," Hamel answered.
 
@@ -6374,7 +6375,7 @@ dilated, he himself seemed to have grown in size. Gerald stepped a
 little back. He was trembling, but his expression had not changed.
 
 "No, I haven't forgotten. There's a great debt we are doing our best to
-pay, but there's such a thing as asking top much, there's such a thing
+pay, but there's such a thing as asking too much, there's such a thing
 as drawing the cords to snapping point. I'm speaking for Esther and
 mother as well as myself. We have been your slaves; in a way I suppose
 we are willing to go on being your slaves. It's the burden that Fate
@@ -6886,7 +6887,7 @@ little.
 
 "If you have an opportunity," Mr. Fentolin suggested, dropping his
 voice, "you might very delicately, you know--girls are so clever at that
-sort of thing-convey my views to Mr. Hamel as regards his leaving us and
+sort of thing--convey my views to Mr. Hamel as regards his leaving us and
 its effect upon your companionship. You understand me, I am sure?"
 
 For the first time she turned her head towards him.
@@ -7235,7 +7236,7 @@ grip of them almost burn into his flesh. Still she said nothing.
 
 "I want your permission, dear," he went on, "to go to him. I suppose he
 calls himself your guardian. If he says no, you are of age. I just want
-you to believe that I am strong enough to put my arms, around you and to
+you to believe that I am strong enough to put my arms around you and to
 carry you away to my own world and keep you there, although an army of
 Mr. Fentolin's creatures followed us."
 
@@ -7276,7 +7277,7 @@ trains a day, and I didn't want to borrow a car from Mr. Fentolin."
 
 "Quite right," Kinsley agreed. "I wanted you to come absolutely on your
 own. Let's get into the coffee-room and have some lunch now. I want to
-catch the afternoon train hack to town."
+catch the afternoon train back to town."
 
 "Do you mean to say that you've come all the way down here to talk to me
 for half an hour or so?" Hamel demanded, as they took their places at a
@@ -7615,7 +7616,7 @@ order--clean bed-linen, towels, even a curtain upon the window.
 her, when he descended. "The room was almost empty yesterday, and I
 forgot nearly all the things I meant to bring home from Norwich."
 
-"Mrs. Seymore Fentolin sent down a hamper for you," the woman replied,
+"Mrs. Seymour Fentolin sent down a hamper for you," the woman replied,
 "with a message from Mr. Fentolin. He said that nothing among the
 oddments left by your father had been preserved, but that you were
 welcome to anything you desired, if you would let them know at the
@@ -7915,7 +7916,7 @@ of Esther. He hesitated for a moment, and then, retracing his steps
 along the terrace, entered the house by the front door, which stood wide
 open. There was no one in the hall, scarcely a sound about the place. A
 great clock ticked solemnly from the foot of the stairs. There was not
-even a servant in sight. Hamel wandered around, a a loss what to do.
+even a servant in sight. Hamel wandered around, at a loss what to do.
 He opened the door of the drawing-room and looked in. It was empty.
 He turned away, meaning to ring a bell. On his way across the hall he
 paused. A curiously suggestive sound reached him faintly from the end of
@@ -7924,12 +7925,12 @@ one of the passages. It was the click of a typewriter.
 Hamel stood for a moment perfectly still. He had hurried up to the Hall,
 filled with the one selfish joy common to all mankind. He had had no
 thought save the thought of seeing Esther. The click of that machine
-brought him hack to the stern realities of life. He remembered his talk
+brought him back to the stern realities of life. He remembered his talk
 to Kinsley, his promise. On the hall table he could see from where he
 was standing the great headlines which announced the nation's anxiety.
 He was in the house of a suspected spy. The click of the typewriter
 was an accompaniment to his thought. He looked around once more and
-listened. Then he made his way quietly across the hail and down the
+listened. Then he made his way quietly across the hall and down the
 long passage, at the end of which the room which Mr. Fentolin called
 his workroom was situated. He turned the handle of the door and entered,
 closing it immediately behind him. The woman who was typing paused with
@@ -8775,7 +8776,7 @@ Esther from me."
 She looked at him a little pitifully, a little wistfully. Then, with a
 shrug of the shoulders, she turned round to the piano and recommenced to
 play. Hamel took his coat and hat from a servant who was waiting in the
-hail and passed out into the night.
+hall and passed out into the night.
 
 He walked briskly until he reached the Tower. The wind had risen, but
 there was still enough light to help him on his way. The little building
@@ -9394,7 +9395,7 @@ She nodded.
 The telephone is in the study. I will come down there to you."
 
 She passed silently up the broad staircase. Hamel groped his way across
-the hail into the library. He turned on the small electric reading-lamp
+the hall into the library. He turned on the small electric reading-lamp
 and drew up a chair to the side of the telephone. Even as he lifted the
 receiver to his ear, he looked around him half apprehensively. It seemed
 as though every moment he would hear the click of Mr. Fentolin's chair.
@@ -9547,7 +9548,7 @@ lives broken. Don't let them go back under his governance. For me, I
 cannot tell. If he comes back, as he will come back, I may become his
 slave again, but let them break away. Listen--that is Mrs. Fentolin."
 
-She left him. Hamel followed her out into the hail. Esther and her
+She left him. Hamel followed her out into the hall. Esther and her
 mother were already at the foot of the stairs. He drew them into the
 study. Esther gave him her hands, but she was trembling in every limb.
 
@@ -9661,7 +9662,7 @@ its clutches.
 all; let me crawl away!"
 
 "Ah!" Mr. Fentolin murmured. "That sounds much more reasonable. When you
-talk like that, my friend. I feel indeed that there is hope for you.
+talk like that, my friend, I feel indeed that there is hope for you.
 Let us abandon this subject for the present. Have you solved the puzzle
 yet?" he asked Meekins.
 
